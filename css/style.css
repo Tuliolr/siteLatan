@@ -1,0 +1,265 @@
+body {
+  padding: 0px !important;
+  margin: 0px !important;
+  
+}
+.container-fluid {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+nav.bg-pupler {
+ background: #3819A9;
+ color: #fff;
+ max-width: 100%;
+
+}
+
+nav.bg-blue-dark {
+  background: #160067;
+}
+
+ul li:first-child {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+
+/*
+#container {
+  width: 100%;
+  height: 100vh;
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+}
+
+#container div {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+*/
+
+.formphp label.nao-aparece, .formphp input.nao-aparece {
+	display: none !important;
+}
+
+#form-erro span, #form-send span  {
+	font-size: 18px;
+	line-height: 25px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+#form-send {
+	color: #31aa39;
+}
+
+#form-erro {
+	color: #f64540;
+}
+
+.carousel-indicators ol {
+        width: 100%;
+    }
+
+
+.carousel-indicators li{
+        height: 1.25rem !important;
+        border-radius: 100% !important;
+        width: 1.25rem !important;
+  }
+
+  .carousel_titulo {
+    max-width: 100%;
+    height: 30%;
+    margin: 8%;
+    font-size: 2.8rem;
+
+  }
+
+.active {
+      background-color:  #3819A9 !important;
+    }
+
+.h1-titulo {
+  margin-top: -18.75rem;
+}
+
+div.carousel-caption {
+  padding-bottom: 8.2rem !important;
+}
+
+.titulo {
+  color: #3819A9;
+  font-size: 2.5rem;
+  margin-bottom: 	3.125rem;
+}
+
+.sub_titulo {
+  color: #3819A9;
+  font-size: 2.0rem;
+  margin-bottom: 	3.125rem;
+
+}
+
+.titulo_orange {
+  color:#EA6619;
+  font-size: 2.0rem;
+
+}
+
+.p_texto{
+  color: #3819A9;
+  text-align: left;
+  font-size: 	1.875rem;
+  font-family: Open Sans Condensed;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 	2.75rem;
+  margin-bottom: 	3.4375rem;
+}
+
+.span_texto {
+  font-family: Open Sans Condensed;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 	2rem;
+  font-size: 	1.875rem;
+  color: #3819A9;
+
+}
+
+.btn_pink {
+  width: 28.125rem;
+  height: 3.125rem;
+  font-family: Open Sans Condensed;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 2rem;
+  font-size: 1.375rem;
+  text-align: center;
+  color: #FFFFFF;
+  background: #FF1493;
+  padding: 0.625rem;
+  margin-top: 0.9375rem;
+}
+
+.bg_alquiler{
+max-width: 100%;
+background: url('../img/foto2-alquiler.jpg') no-repeat center center;
+background-size: 100%;
+text-align: center;
+height: 40.625rem;
+}
+
+.bg_corporativo{
+max-width: 100%;
+background: url('../img/foto_marcel2.jpg') no-repeat center center;
+background-size: 100%;
+text-align: center;
+height: 62.5rem;
+}
+
+.bg_Estudiantes {
+  max-width: 100%;
+  background: url('../img/foto_estudiantes.jpg') no-repeat center center;
+  background-size: 100%;
+  text-align: center;
+  height: 62.5rem;
+
+}
+
+.texto_foto {
+  color: #fff;
+  line-height: 4rem;
+  font-size: 2.5rem;
+  text-align: left;
+}
+
+.texto_foto_box {
+  color: #fff;
+  font-size: 2.5rem;
+  text-align: center;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+}
+
+.span_texto_white {
+  font-family: Open Sans Condensed;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 	2rem;
+  font-size: 	1.875rem;
+  color: #fff;
+
+}
+
+.bg_gray{
+  background: #E2EBF2;
+}
+
+
+
+.div-p {
+  height: 18.75rem;
+  background: #fff;
+}
+
+.suite p {
+  color: #445566;
+
+}
+
+.box_transparente {
+  position: absolute;
+  background: #000;
+  border-radius: 1.25rem;
+  display: block;
+   height: 21.875rem;
+   margin: 0 auto;
+   width: 53.125rem;
+
+  opacity: 0.8;
+}
+
+label {
+  color: #303B46;
+}
+.color{
+  color: #303B46;
+}
+
+.color p {
+
+}
+
+.separador {
+  height:31.25rem;
+  width: 0.125rem;
+  background-color: #E1EAF2;
+  margin: 0 auto;
+
+}
+
+.titulo_pink {
+  color: #FF1493
+}
+
+.footer {
+  background-color: #3819A9;
+  max-width: 100%;
+  height: 6.25rem;
+}
+
+.footer p {
+  text-align: center;
+  color: #fff;
+}

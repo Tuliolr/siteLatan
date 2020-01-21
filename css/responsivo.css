@@ -1,0 +1,177 @@
+@media only screen and (min-width: 18.75rem) and (max-width: 30.625rem){
+  .texto_foto{
+    font-size: 1rem;
+    margin: auto;
+
+  }
+  .span_texto_white {
+    font-size: 0.850rem;
+    margin-bottom: 0.625rem;
+
+  }
+
+  .d-flex {
+    display: block !important;
+  }
+
+  .js-menu ul li a {
+    list-style: none;
+    text-align: center;
+    display: block;
+  }
+
+  .js-menu li {
+    list-style: none;
+    text-align: center;
+    display: block;
+    padding: 0.3125rem;
+    font-size: 1.125rem;
+  }
+
+
+  h1.carousel_titulo {
+    max-width: 100%;
+    height: 55%;
+    margin: 0 auto;
+    font-size: 1.8rem;
+    padding: 0.625rem;
+  }
+
+  .separador {
+    display: none;
+  }
+
+  .box_transparente {
+    width: 60%;
+    height: 30%;
+
+  }
+  .texto_foto_box{
+    font-size: 1.9rem;
+  }
+
+
+
+}
+
+@media only screen and (min-width: 31.25rem) and (max-width: 43.75rem){
+
+
+
+.d-flex {
+  display: block !important;
+}
+
+.js-menu ul li a {
+  list-style: none;
+  text-align: center;
+  display: block;
+}
+
+.js-menu li {
+  list-style: none;
+  text-align: center;
+  display: block;
+  padding: 0.3125rem;
+  font-size: 1.125rem;
+}
+
+
+h1.carousel_titulo {
+  max-width: 100%;
+  height: 55%;
+  margin: 0 auto;
+  font-size: 1.8rem;
+  padding: 0.625rem;
+}
+
+
+
+.texto_foto{
+  font-size: 1.4rem;
+
+}
+
+.bg_alquiler {
+  height: 100%;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.bg_responsivo {
+  height: 100%;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.span_texto_white {
+  font-size: 1.4rem;
+
+}
+
+.box_transparente {
+  width: 60%;
+  height: 30%;
+
+}
+.texto_foto_box{
+  font-size: 1.9rem;
+}
+
+.span_texto_white {
+  font-size: 1.9rem;
+}
+
+.separador {
+  display: none;
+}
+
+
+button.btn.btn_pink {
+  margin-left: 5%;
+}
+
+}
+
+@media only screen and (min-width: 44.375rem) and (max-width: 55.625rem){
+  .texto_foto{
+    font-size: 2.3rem;
+    margin: 5%;
+
+  }
+  .span_texto_white {
+    font-size: 2.3rem;
+
+  }
+
+
+
+}
+
+
+
+@media only screen and (min-width: 56.25rem) and (max-width: 81.5rem)  {
+
+  .d-flex {
+    display: block !important;
+  }
+
+
+  .js-menu ul li a {
+    list-style: none;
+    text-align: center;
+    display: block;
+  }
+
+  .js-menu li {
+    list-style: none;
+    text-align: center;
+    display: block;
+    padding: 0.3125rem;
+    font-size: 1.125rem;
+  }
+
+  .separador {
+    display: none;
+  }
+}
